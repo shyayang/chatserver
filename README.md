@@ -6,12 +6,11 @@
 平台工具：VScode远程连接Ubuntu22.04开发  
 muduo网络库  
 负载均衡器：nginx-1.24.0  
-安装redis、mysql，同时启动服务
+安装redis、mysql
 
 # 编译方式  
-
-`bash build.sh  
-cd bin/`  
+`bash build.sh`  
+`cd bin/`  
 `./ChatServer 127.0.0.1 6000`  
 `./ChatClient 127.0.0.1 8000`  
 
