@@ -9,6 +9,8 @@ muduo网络库
 安装redis、mysql，同时启动服务
 
 # 编译方式  
+
+`<hello world>`
 cd build  
 rm -rf *  
 cmake ..  
